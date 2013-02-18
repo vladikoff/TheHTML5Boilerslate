@@ -1,7 +1,7 @@
 {
   "name": "TheHTML5Boilerslate",
   "private": true,
-  "dependencies" : {
+  "dependencies": {
     "bower": "~0.7.0"
   }
 }
